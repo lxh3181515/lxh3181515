@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Xianghong Ling and I'm a first-year M.Phil. student in SUSTech.
+My name is Xianghong Ling and I'm a M.Phil. student in SUSTech.
 - 🔭 I’m currently working on Multi-sensor SLAM
 - 📫 How to reach me: lingxh2022@163.com
 
