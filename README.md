@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Xianghong Ling and I'm a M.Phil. student in SUSTech.
-- 🔭 I’m currently working on Multi-sensor SLAM
+- 🔭 I’m currently working on humanoid locomotion and perception RL
 - 📫 How to reach me: lingxh2022@163.com
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lxh3181515&theme=default" />
